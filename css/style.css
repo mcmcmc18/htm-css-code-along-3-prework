@@ -54,6 +54,6 @@ font-family: 'Clicker Script', cursive;
   text-decoration: underline;
 }
 
-#details: a active {
+#details a: active {
   color: red;
 }
